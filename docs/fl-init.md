@@ -6,7 +6,7 @@ Initialize a font project.
 
 ```
 fl init
-fl init [<@org>/]<name>
+fl init [<@foundry>/]<name>
 
 alias: fl i
 common options: [-h|--http-mode|-ipfs|--ipfs-mode] [-f|--force]
